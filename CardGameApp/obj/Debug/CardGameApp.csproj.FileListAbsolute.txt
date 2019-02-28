@@ -1,0 +1,10 @@
+C:\Users\User-PC\Downloads\Card-master\Card-master\CardGameApp\bin\Debug\CardGameApp.exe.config
+C:\Users\User-PC\Downloads\Card-master\Card-master\CardGameApp\bin\Debug\CardGameApp.exe
+C:\Users\User-PC\Downloads\Card-master\Card-master\CardGameApp\bin\Debug\CardGameApp.pdb
+C:\Users\User-PC\Downloads\Card-master\Card-master\CardGameApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User-PC\Downloads\Card-master\Card-master\CardGameApp\bin\Debug\RandomUser.dll
+C:\Users\User-PC\Downloads\Card-master\Card-master\CardGameApp\obj\Debug\CardGameApp.csprojAssemblyReference.cache
+C:\Users\User-PC\Downloads\Card-master\Card-master\CardGameApp\obj\Debug\CardGameApp.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Downloads\Card-master\Card-master\CardGameApp\obj\Debug\CardGameApp.csproj.CopyComplete
+C:\Users\User-PC\Downloads\Card-master\Card-master\CardGameApp\obj\Debug\CardGameApp.exe
+C:\Users\User-PC\Downloads\Card-master\Card-master\CardGameApp\obj\Debug\CardGameApp.pdb
